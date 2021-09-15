@@ -1,4 +1,4 @@
-# PAWS  :paw_prints: **P**redicting View-**A**ssignments **w**ith **S**upport Samples
+## PAWS  :paw_prints: **P**redicting View-**A**ssignments **w**ith **S**upport Samples
 
 This repo provides a PyTorch implementation of PAWS (**p**redicting view **a**ssignments **w**ith **s**upport samples), as described in the paper [Semi-Supervised Learning of Visual Features by Non-Parametrically Predicting View Assignments with Support Samples](https://arxiv.org/abs/2104.13963).
 
